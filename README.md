@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sshrijan
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Html
+- 👋 Hi, I’m @shrijan.
+- 👀 I’m interested in becoming a Backend developer.
+- 🌱 I’m a beginner so kindly give me any suggestions to improve my programming skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
